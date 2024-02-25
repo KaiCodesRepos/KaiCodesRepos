@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning Typscript, React & Angular
+- 🌱 I’m currently learning Typscript, React & Angular
 -->
 
 ## 🌐 Socials:
